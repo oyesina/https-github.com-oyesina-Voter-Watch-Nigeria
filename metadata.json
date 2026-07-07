@@ -1,0 +1,6 @@
+{
+  "name": "VoterWatch Nigeria",
+  "description": "Voter Registration and Electoral Integrity analytics platform. Track participation trends, detect registration anomalies, map compliance, and audit election data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
